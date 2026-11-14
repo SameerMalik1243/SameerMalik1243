@@ -39,15 +39,15 @@ class SameerMalik:
         print("Thanks for visiting - let's build the future responsibly!")
 ```
 
-- 🧠 I turn **large language models** into real, shipping products
-- 🔭 Leading AI at **Rexar**: designing **agentic systems, RAG pipelines & GenAI apps**
-- 👁️ Building **computer vision** and **machine learning** solutions that solve real problems
-- 🛡️ Passionate about **Responsible AI**: safe, fair, and transparent systems
-- 🌐 Full-stack mindset: from model to API to polished web UI
-- 💬 Ask me about **LLMs, Agents, Python, React, or AI system design**
-- ⚡ Fun fact: I speak fluent **Python** *and* **prompt engineering**
+- 🧠 I turn **large language models** into real, shipping products.
+- 🔭 Leading AI at **Rexar**: designing **agentic systems, RAG pipelines & GenAI apps**.
+- 👁️ Building **computer vision** and **machine learning** solutions that solve real problems.
+- 🛡️ Passionate about **Responsible AI**: safe, fair, and transparent systems.
+- 🌐 Full-stack mindset: from model to API to polished web UI.
+- 💬 Ask me about **LLMs, Agents, Python, React, or AI system design**.
+- ⚡ Fun fact: I speak fluent **Python** *and* **prompt engineering**.
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools:
 
 ### 🤖 AI / Machine Learning / LLMs
 
