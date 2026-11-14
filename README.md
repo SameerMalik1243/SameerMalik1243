@@ -10,11 +10,26 @@
 
 <div align="center">
 
-<a href="https://github.com/SameerMalik1243">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=90&lines=Sameer+Malik;AI+Engineer;Head+of+AI+at+Rexar;Building+the+Future+with+AI" alt="Sameer Malik"/>
-</a>
+```
+███████╗ █████╗ ███╗   ███╗███████╗███████╗██████╗
+██╔════╝██╔══██╗████╗ ████║██╔════╝██╔════╝██╔══██╗
+███████╗███████║██╔████╔██║█████╗  █████╗  ██████╔╝
+╚════██║██╔══██║██║╚██╔╝██║██╔══╝  ██╔══╝  ██╔══██╗
+███████║██║  ██║██║ ╚═╝ ██║███████╗███████╗██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%5B+AI+ENGINEER+%5D+::+%5B+LLM+%5D+::+%5B+FULL+STACK+%5D" alt="Keywords"/>
+███╗   ███╗ █████╗ ██╗     ██╗██╗  ██╗
+████╗ ████║██╔══██╗██║     ██║██║ ██╔╝
+██╔████╔██║███████║██║     ██║█████╔╝
+██║╚██╔╝██║██╔══██║██║     ██║██╔═██╗
+██║ ╚═╝ ██║██║  ██║███████╗██║██║  ██╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
+
+
+   [ AI ENGINEER ]  ::  [ LLM ]  ::  [ FULL STACK ]
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Sameer+Malik;Head+of+AI+at+Rexar;Building+the+Future+with+AI" alt="Sameer Malik"/>
 
 <br/>
 
