@@ -93,9 +93,10 @@ class SameerMalik:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SameerMalik1243&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerMalik1243&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=SameerMalik1243&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+
 
 ## 🌐 Connect With Me
 
