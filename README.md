@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=SameerMalik1243&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/SameerMalik1243?label=FOLLOWERS&style=for-the-badge&color=4361EE&labelColor=444" alt="Followers"/>
 <img src="https://img.shields.io/badge/HEAD%20OF%20AI-REXAR-444?style=for-the-badge" alt="Head of AI"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-00C2CB?style=for-the-badge" alt="Open to collaborate"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-WORK-00C2CB?style=for-the-badge" alt="Open to work"/>
 
 </div>
 
