@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=90&lines=AI+Engineer;Head+of+AI+at+Rexar;GenAI+%7C+Agentic+AI+%7C+CV;Building+the+Future+with+AI" alt="AI Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=90&lines=AI+Engineer;Head+of+AI+at+Rexar;Building+the+Future+with+AI" alt="AI Engineer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%5B+AI+ENGINEER+%5D+::+%5B+LLM+%5D+::+%5B+FULL+STACK+%5D" alt="Keywords"/>
 
