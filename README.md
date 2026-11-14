@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2A9E,100:0A9396&height=200&section=header&text=Sameer%20Malik&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Head%20of%20AI%20at%20Rexar%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="Sameer Malik"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2A9E,100:0A9396&height=200&section=header&animation=fadeIn&text=Sameer%20Malik&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Head%20of%20AI%20at%20Rexar%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="Sameer Malik"/>
 
 </div>
 
@@ -10,17 +10,13 @@
 
 <div align="center">
 
-```
-███████╗ █████╗ ███╗   ███╗███████╗███████╗██████╗
-██╔════╝██╔══██╗████╗ ████║██╔════╝██╔════╝██╔══██╗
-███████╗███████║██╔████╔██║█████╗  █████╗  ██████╔╝
-╚════██║██╔══██║██║╚██╔╝██║██╔══╝  ██╔══╝  ██╔══██╗
-███████║██║  ██║██║ ╚═╝ ██║███████╗███████╗██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+<a href="https://github.com/SameerMalik1243">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=90&lines=Sameer+Malik;AI+Engineer;Head+of+AI+at+Rexar;Building+the+Future+with+AI" alt="Sameer Malik"/>
+</a>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%5B+AI+ENGINEER+%5D+::+%5B+LLM+%5D+::+%5B+FULL+STACK+%5D" alt="Keywords"/>
 
-   [ AI ENGINEER ]  ::  [ LLM ]  ::  [ FULL STACK ]
-```
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=SameerMalik1243&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/SameerMalik1243?label=FOLLOWERS&style=for-the-badge&color=4361EE&labelColor=444" alt="Followers"/>
